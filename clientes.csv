@@ -1,0 +1,101 @@
+id_cliente;nome;email;telefone;data_nascimento;endereco;data_cadastro
+42a99af7-9d8f-4cc6-8c01-5f7c3562d7b5;Dra. Emanuella da Cruz;borgesoliver@example.org;+55 84 2507 1520;1961-11-18;Viaduto de Silva, 63, Zilah Sposito, 67167-479 Cardoso das Pedras / PI;2023-08-25
+cf4dfd7c-c944-4003-9af7-3f53fce64fd9;Ravi Lucca Novaes;rhavinunes@example.org;+55 (081) 0132 8601;1945-06-01;Vereda Heloísa Novais, 7, Vila Madre Gertrudes 3ª Seção, 63466-245 Nogueira / CE;2024-09-30
+21751c92-07ab-4df2-8e46-cd54a8b1d632;Valentim Martins;rodriguesdavi-miguel@example.net;+55 (061) 3920-9358;1959-06-19;Vila Breno Lopes, 55, Dom Bosco, 15460-659 Vieira de Cavalcanti / PB;2024-10-24
+d1702ad6-fc55-47c1-974c-7b9f906b72a8;Laura Gomes;heloisacampos@example.org;+55 (031) 2052 6184;1952-07-12;Jardim Augusto Almeida, 3, Betânia, 21004058 Cirino do Galho / PR;2023-08-13
+2a087304-7dcc-43d5-bc0b-69b3bd51c242;Sr. Isaque Gonçalves;emendonca@example.org;(041) 1943 0975;1962-06-05;Pátio Cavalcante, Vila Santa Rosa, 98497135 Santos / MS;2023-03-04
+c5f69a65-94d5-4891-b103-1bde6d41696a;Dr. Theodoro Rocha;siqueiraalice@example.net;+55 (071) 1280 9555;1999-04-29;Loteamento de Souza, 81, Serrano, 29243281 Casa Grande / CE;2024-07-02
+baaef2f1-c00d-4a00-85c4-52fe0223f226;Anna Liz Cardoso;brayandias@example.com;+55 21 7319 5310;1991-06-20;Favela de Vasconcelos, 2, Alípio De Melo, 93608112 Garcia do Amparo / AM;2025-01-22
+6de94c3e-5b36-4f5f-8673-77a9a772887f;Sra. Lívia Vasconcelos;kpinto@example.com;11 9428-3860;1944-11-18;Vale de Melo, 6, João Pinheiro, 09487908 Martins / MA;2023-09-10
+ca48f744-f95c-43cf-866e-fe50f8ace908;Léo Nascimento;manuellacarvalho@example.org;41 7568-0833;1984-07-27;Praça de Fernandes, 88, Solar Do Barreiro, 92093248 Macedo / DF;2023-10-01
+4b1748ed-8e03-4b92-b7c0-4d2fc2a4e360;José Miguel Correia;dpastor@example.org;0500-315-0763;1952-10-10;Chácara da Rosa, 30, Paraíso, 99148193 Almeida / MG;2023-07-12
+d6cce330-a2a1-4c29-ac1d-75f8665edf74;João Miguel Jesus;zsantos@example.com;(051) 7556-2877;1977-12-26;Rodovia de Marques, Caiçara - Adelaide, 39030-908 Pires do Galho / CE;2024-11-24
+7073e019-a6bc-4789-a47c-d23342c1d401;Mariana da Mota;viniciussousa@example.net;+55 84 0383-2185;1997-04-24;Loteamento de Fernandes, Aguas Claras, 77228-777 Lopes / BA;2024-11-02
+280adc32-f55e-4fd0-8601-1c13aa31f241;Joaquim Brito;dbrito@example.org;+55 21 5011 7916;1977-07-10;Alameda Pires, 795, Alta Tensão 2ª Seção, 63122-935 Silva / ES;2024-07-09
+50d69e92-bbb1-4015-baff-44561482bc83;Vitor Hugo Guerra;pedro64@example.net;71 8862 5568;1966-10-18;Sítio Josué da Costa, 50, Bonfim, 19047039 Rocha / AC;2024-02-12
+78683842-9a72-44cf-8059-c39b433cdca9;Nathan Rezende;caldeirajose@example.org;+55 11 3061-1943;1991-07-17;Distrito de Nascimento, 21, Vitoria Da Conquista, 41610-855 Porto do Galho / PB;2023-02-28
+a62ce8c8-7503-42fe-b08b-f90ffa1d4c6b;Ian Novaes;garciabella@example.net;+55 (031) 7813 4233;1979-10-12;Vila de Moreira, 21, Vila Ecológica, 22291340 Caldeira / AC;2024-04-09
+12a2f7d4-57bb-4bf5-9ea1-6af3263ec9ef;Cauã Vieira;allana34@example.net;(061) 6683 0980;1978-05-16;Largo Gonçalves, Marieta 3ª Seção, 59942589 Pastor / MA;2023-12-02
+70a69902-c494-46ea-a6c7-b5f2f7f02f69;Brenda Cunha;oaraujo@example.com;0900 624 2027;1965-09-14;Praça das Neves, 67, Inconfidência, 23277314 Rios de Nascimento / MT;2023-07-02
+364a363b-8c25-4a4c-b686-1fc9e6721c62;Yasmin Montenegro;dmartins@example.net;+55 (061) 8664 3148;1948-05-03;Área Alves, 40, Boa União 2ª Seção, 46187-911 Mendes / RS;2023-04-17
+929374be-5fa9-4298-b3f2-71a4cd9c3fdf;Igor Castro;novaisantonio@example.com;21 5674-4074;2006-11-26;Esplanada Letícia Caldeira, 59, Vila Santo Antônio Barroquinha, 39750-128 Mendonça / RR;2024-01-05
+5b39fecb-36b7-4def-9712-5d64673d67dc;Henrique Casa Grande;uvargas@example.net;(031) 1427 3010;1990-08-10;Recanto Vasconcelos, 7, Vila Rica, 15622-385 Souza / MT;2024-06-07
+96a6b43e-c53b-4d12-a144-96f4d654aaf8;Bruna Sales;da-luzmaria-clara@example.com;+55 (084) 6464-9223;1996-04-09;Rodovia de Fogaça, 78, Vila Boa Vista, 34034820 Sousa / RO;2024-06-04
+f5635cd5-2418-421e-b683-2fd89f73b3c8;Heitor da Cruz;ravi24@example.net;+55 84 0526-0147;1955-11-03;Travessa de Ribeiro, 39, Maria Helena, 43629140 Aragão / RS;2024-01-05
+d0cc0edd-2597-4a51-8a7b-41a42329ad69;Gael Henrique Azevedo;dsilva@example.com;11 8953 4226;1994-08-23;Morro de Rodrigues, 707, Betânia, 62253289 da Conceição Alegre / ES;2024-10-27
+40f5b6d0-0ed0-4dd9-8537-a824c3492b28;Sr. Oliver Gomes;beatriz89@example.net;+55 11 3070 5876;1998-10-02;Trecho Elisa Moreira, 16, Conjunto Floramar, 83960867 Cavalcanti / MG;2024-12-04
+d1a8cb06-f354-4fde-a8bf-6bff3faa02e8;Emanuella da Mota;leonardo77@example.com;0500-497-7871;1965-12-22;Jardim Rios, 934, Jardim Montanhês, 40216367 Monteiro / DF;2024-12-30
+9a47109f-c397-4cbd-8786-0b0dfa7423f9;Eloah Costa;stellada-paz@example.org;0500 913 3057;1959-10-21;Passarela Emanuelly Vasconcelos, 85, Guarani, 94806-178 Cassiano de Minas / MS;2024-05-12
+4350039c-3f4e-4e7f-b9b3-19a5e1fe3e52;Sra. Rafaela Cavalcanti;ssantos@example.com;+55 81 5094-3570;2002-04-07;Conjunto Lima, 828, Santa Helena, 65852-397 Aragão / SP;2024-01-05
+0f375a5d-1472-42a9-a4cc-1fb3710c2d67;Oliver Camargo;albuquerquemarina@example.com;+55 (061) 5915-4325;1970-02-03;Estação Ian Gonçalves, 39, Colégio Batista, 00163200 Pastor de Albuquerque / PI;2024-10-22
+44a8728b-5cae-424d-9148-ee022b252480;Davi Lucas Costa;vargasmanuella@example.org;(021) 3527 7706;1982-03-13;Passarela Dias, 8, Havaí, 32254-978 Peixoto de Jesus / RJ;2023-03-01
+fd6f0dbe-b412-4fbd-87d9-b0b5aae5dd34;Vitor Gabriel Silva;domaraujo@example.org;31 4135-5050;1970-08-23;Trevo de Ramos, 832, Alta Tensão 1ª Seção, 64579115 Fernandes / RO;2023-08-06
+d25e05a7-89a2-483b-8bc4-ec65f99a112f;Maria Luiza Cunha;lizcostela@example.com;+55 11 7446-4579;1972-10-24;Alameda Macedo, 79, Santa Sofia, 62722-641 Santos do Sul / AM;2024-05-15
+c88ed85c-2329-4f0e-94f4-3d83012ff616;Caio da Conceição;garagao@example.net;71 3034-7902;1948-07-07;Viaduto Luara Jesus, 95, Corumbiara, 98486-210 da Mota do Sul / MG;2025-01-13
+69610f86-e4cd-4211-92f1-435208d6c4ef;Antônio das Neves;maria-vitoriamoura@example.org;0300 280 8817;1956-03-20;Estrada de Novaes, 81, Tupi B, 26582458 Fogaça / MG;2024-08-15
+a0bbdcdb-bae9-4936-8b5c-76ea2c5812a4;Henry Gabriel Sampaio;das-nevescaue@example.org;21 2606 1861;1944-03-15;Condomínio Henry Gabriel Moraes, 12, Dom Cabral, 99283900 Fogaça / MG;2023-04-26
+4ff5ed0e-295a-4324-9746-70b258c9995e;Maria Liz Jesus;xcastro@example.org;+55 31 6112 3366;1983-02-04;Morro Enrico da Mata, 46, Betânia, 20096577 Gomes de Minas / SC;2023-12-06
+c9d98025-e22a-4fb1-b8bb-906d68460df6;Marcelo Albuquerque;oliviamoraes@example.net;+55 (041) 7184-4243;1956-04-13;Conjunto Henry Alves, Vila Maloca, 57098647 Camargo Grande / RJ;2024-09-23
+c87ea0c2-fbe6-43da-9a44-efacc889cb41;Dr. Diego Nogueira;sophiada-cunha@example.org;81 3988 6812;1958-10-27;Loteamento de Costela, 5, Inconfidência, 53720909 Pires Paulista / AP;2024-04-25
+3c8e8d97-538d-4a8c-aef3-59f10e5c07c1;Thomas Pinto;leticiamelo@example.org;+55 51 5370 9857;1972-01-15;Estação Jesus, 686, Esperança, 67574335 Guerra / MT;2023-06-15
+72b4ca8e-9adc-4eda-ab46-462da871ca23;Lucas Gabriel Silva;sousamaria-clara@example.com;+55 (051) 9139-1683;1968-07-25;Quadra de Silva, 36, Vila Paquetá, 31586861 Vieira / SE;2023-09-09
+405235f4-2cbb-4a3d-b238-1281b80f9cd5;Evelyn Caldeira;mnunes@example.com;61 9783-6603;1966-07-02;Estrada Bruno Marques, 75, Sagrada Família, 69057-413 Nunes do Galho / RN;2024-10-30
+17b64371-95af-4b45-b57a-ae0838c59827;Renan Freitas;cavalcanteliam@example.com;51 5668 9859;1958-12-05;Colônia de Moraes, 32, Nossa Senhora Do Rosário, 71095-068 Ferreira / PA;2024-09-17
+6ae4311e-789a-4ad8-8889-dcb436027a3f;Ana Beatriz Novais;luisa13@example.org;(061) 8096 6363;1993-07-28;Aeroporto de Nunes, Flamengo, 33308-535 Rios / DF;2023-12-19
+57e22dde-a8f3-4007-a799-6b9e285b4d9e;Maya Camargo;yvieira@example.net;41 8431 5378;1958-05-31;Rodovia Alexia Castro, 23, Novo Tupi, 73259-861 Gonçalves / SE;2023-07-13
+62f96407-583e-4fb1-8a4d-4d7c546bb605;Sara da Cruz;oliviamendes@example.com;(061) 7321-5132;1987-09-04;Viela Vitor Hugo das Neves, 13, Tupi A, 70292303 Costela / ES;2024-01-25
+137c7204-af63-4bfb-a390-9bfaafdd4aef;Vicente Leão;pporto@example.net;61 9368 5628;1960-04-19;Vale de Rodrigues, Lajedo, 20364-097 Sá Alegre / RN;2023-06-13
+526668e3-513f-4f86-9740-d778d8a057a5;Maya Lopes;kamillyduarte@example.org;+55 11 3135-7874;1981-10-08;Viela Pacheco, Alto Dos Pinheiros, 35112494 Ribeiro / PR;2024-09-25
+be27688a-6005-4b31-a191-fd4a1cb37ba5;Bernardo Albuquerque;maria-fernanda75@example.net;21 2525-4990;1970-10-22;Loteamento de Rodrigues, 4, Petropolis, 63558-100 Siqueira / AC;2024-08-01
+4671c055-7914-467a-a6e3-413c2f582d6a;Ana Beatriz Cavalcante;maria-luisasiqueira@example.org;41 9381-8555;1970-05-30;Condomínio Andrade, 68, Jardim Guanabara, 69281635 Santos Verde / SC;2024-01-25
+7204f326-a020-419f-b4eb-949170227aca;Liam Casa Grande;bmartins@example.org;0900-704-3539;1999-04-16;Jardim Lima, Satelite, 34632963 da Rosa do Campo / MT;2023-06-18
+27f74c68-cfc9-4bde-9af1-4fb1c3faaa64;Dra. Eloá Cavalcanti;hellenagarcia@example.org;+55 61 5866 8850;1960-05-15;Avenida Liz Almeida, 8, Coqueiros, 82027406 Mendonça / MA;2023-12-12
+c941cf99-b29a-4d80-b694-8d0e043a3b23;Diego Almeida;isabelladuarte@example.net;51 6398 9527;1952-10-04;Avenida Mateus Montenegro, 42, Caiçara - Adelaide, 35493-828 Correia da Mata / MT;2024-04-27
+77c94109-ecd5-413f-a20d-4df3b9a7ae0d;Nicole Macedo;fogacamaria-flor@example.org;84 9464 6028;1948-02-17;Esplanada de Macedo, 8, Santa Branca, 54137-291 Rios / MA;2024-08-23
+d05d82e0-0533-4da5-b30c-8e645be96315;Rafaela Ramos;fonsecabrayan@example.org;+55 (051) 3913-3544;1957-04-27;Praia de Pastor, 81, Capitão Eduardo, 40581656 Peixoto / AM;2024-10-29
+b2110052-54eb-4e02-a82b-5e6a2de5f71a;Vicente Cardoso;nascimentoamanda@example.net;(071) 9870-4386;2003-08-17;Loteamento Nunes, 96, Santa Branca, 77534-454 Fernandes de Minas / RS;2024-04-17
+58ab4c60-f2a1-4776-855c-770599906b3a;Bryan Carvalho;machadoclara@example.org;61 7233-5317;1989-01-22;Chácara Marcela da Costa, 201, Palmares, 39926549 Sousa / ES;2023-11-20
+10d2dcef-01b8-41af-9cc3-218f889b8086;Isis Monteiro;luizacampos@example.net;+55 (084) 1621 3485;1990-05-22;Viela Andrade, 9, Fazendinha, 82602-264 Abreu / MG;2023-12-24
+5fa54106-9b3a-42e9-8dad-054261f17d1d;Sra. Ana Clara Camargo;carvalhoisabelly@example.org;(011) 7253-8257;1967-10-11;Feira Pastor, 707, Novo Tupi, 21397648 Moreira / RS;2023-09-11
+b9d82983-c6f1-44e7-8d45-cdbb14448a18;Gabrielly Ramos;nina36@example.net;+55 (084) 9924 9666;2004-03-09;Viaduto Melo, 68, Boa Viagem, 59022210 Campos / BA;2023-10-03
+65eae844-0bc6-4f8f-8d67-74f8e1e87f72;Srta. Ana Julia Câmara;melina48@example.com;71 6854 2090;1962-08-19;Via Ana Carolina Machado, 9, Urca, 59131368 Sá de Azevedo / SE;2024-08-05
+91c31b3f-756a-4cce-96e5-253d2accd603;Otto Sousa;wsilva@example.net;0900-764-2114;1993-06-24;Campo de Leão, 14, Nazare, 55929-348 Siqueira da Serra / RO;2023-07-04
+5e052fd1-6a5d-483d-a84c-b6f7fa7df6ec;João Felipe Leão;xfarias@example.net;11 9075 1663;2003-05-01;Viaduto Milena Sampaio, Caetano Furquim, 19375437 Mendonça / PI;2023-12-25
+78e2e823-a6ab-42f3-8385-4f7bac181b14;Bella da Mota;allanacosta@example.net;(071) 3980-6898;1989-03-30;Estrada de Casa Grande, 4, Nova Cachoeirinha, 76173-362 Cardoso do Oeste / MT;2023-12-24
+33bdd9ee-9261-4dd9-9730-0b353ed68aec;Sra. Mariane Siqueira;ravicasa-grande@example.com;(031) 7142 8331;1983-06-10;Alameda Eloah Abreu, 9, Tiradentes, 98144-134 da Cunha / PE;2023-03-05
+0f52408e-8e0b-46e9-b9a3-4e0b56953581;Srta. Fernanda Silveira;lsilva@example.com;+55 84 8942-5504;1990-08-01;Loteamento de Peixoto, 107, Cardoso, 15543745 da Rosa / ES;2024-02-17
+5a00acd2-7620-4e15-a736-ae9f06ff8213;Maria Helena Vasconcelos;ymonteiro@example.org;0800 772 6638;1990-12-08;Vila Maria Fernanda Alves, 4, Ipiranga, 68942000 Carvalho da Prata / AL;2023-10-05
+a2d2e1f6-5e55-4126-983c-7136f7358124;Bella Brito;lda-mota@example.com;61 7825-1601;1988-06-09;Passarela de Sousa, 1, Marieta 2ª Seção, 05464-555 Câmara de Minas / PI;2025-01-02
+e7d0ce80-e619-405d-93b2-13af27546a11;Léo Novaes;das-neveslorenzo@example.net;+55 61 1504-3054;1956-09-10;Travessa Fernandes, Lagoinha Leblon, 68435228 Montenegro / RR;2023-12-13
+04ea0e7f-f431-4e61-a030-057c2717b1d9;Vitor Gabriel Montenegro;pda-conceicao@example.com;0900 079 9589;1991-04-24;Chácara Ana Lívia Pires, 128, União, 30849-998 Câmara / RN;2023-02-26
+19c7c7f7-fe76-405b-b3c2-4234ffb6205a;Leandro da Luz;luigi11@example.com;+55 (051) 7559 8206;2002-08-07;Vale de Mendes, Vila Esplanada, 50565197 da Paz das Flores / RO;2023-07-25
+740a7da4-3964-4ac6-a619-f9e19d19ed25;Dr. Renan Rios;gustavo-henrique85@example.com;+55 31 1415 6420;1957-09-28;Estrada Rocha, 3, Vila Da Ária, 02316-269 Gonçalves de Minas / PB;2024-03-28
+ec3640ec-cb12-49bc-9fec-65ba8bae78f6;Kevin Ramos;valentinacavalcante@example.net;(061) 7360-6792;1995-02-09;Chácara Carvalho, 76, Jardim Montanhês, 11264-806 Ribeiro de Barbosa / RO;2023-04-04
+f81c2327-b8a2-43b1-a1bc-ea4456330797;Pietro Machado;clarapacheco@example.com;+55 81 0510 8426;1975-09-29;Praia Caldeira, 98, Satelite, 63754317 da Rosa / PI;2024-10-22
+c3316a03-9e51-4c2a-9d53-76a55b78f670;Igor Ramos;ana-juliaabreu@example.org;+55 (081) 7558-9497;2000-03-17;Trevo de Caldeira, Jardim América, 55963-830 Rocha Verde / PA;2024-01-24
+062497ba-119f-42b6-9673-1dda604b95be;Ana Clara Borges;mirella67@example.net;0800 893 6462;1947-02-08;Conjunto de Sampaio, 80, Pousada Santo Antonio, 11935-627 Lima / TO;2024-02-16
+7426e179-67ca-4bae-8a27-7564af66db11;Nathan Costela;caue57@example.com;+55 81 3605-9490;1981-11-07;Vereda de Casa Grande, 918, São José, 05061-143 Cardoso / ES;2024-02-14
+59b817f4-de79-4b69-b76e-efe4c8af6d54;Dra. Stella Cavalcante;joaomachado@example.com;+55 (021) 3509-7457;1992-11-07;Recanto Alana Ribeiro, 614, Embaúbas, 41157520 Pinto das Flores / RO;2024-05-01
+761fc90e-d7d5-483d-aaaa-684bef7d93ff;Nina Melo;gda-cunha@example.org;+55 (011) 2714 9315;1986-04-30;Via Ribeiro, 33, Santo Agostinho, 02732321 Araújo do Amparo / PA;2023-05-25
+19ef5a75-913b-4b26-b841-74a52e46b5d1;Bianca Cirino;ssantos@example.org;84 8060 5286;1985-03-21;Setor de Barros, 35, São Sebastião, 90479-189 Rodrigues / MS;2024-05-23
+0bc69e2a-ccec-41fb-b372-c2b6cfdcc0e5;Sra. Larissa Cunha;manuellagarcia@example.org;31 7256 1134;1953-01-29;Alameda Isabelly Silveira, 68, Vila São Geraldo, 03907360 Azevedo / SC;2024-04-25
+6701feb6-ff73-4650-a9cd-7f303a0f52a0;Marina Andrade;limajoao-vitor@example.com;0800-136-7700;1985-12-07;Via Pacheco, Taquaril, 13244-365 Rocha do Amparo / CE;2024-12-19
+965795ea-fff1-44cd-9dd8-8a6e28221963;Marcos Vinicius Sousa;asafefogaca@example.net;(061) 1237-8051;1949-06-23;Feira de Pacheco, 465, Santa Maria, 80700618 Rocha / AP;2024-05-17
+8dabaa69-0e7e-47da-b567-32004ed317ad;Dra. Juliana Novaes;gomesantonella@example.org;(061) 5027-7483;1954-03-14;Travessa de Souza, 72, Buritis, 99106-424 da Mata / AP;2023-10-22
+845cda2d-1a83-4bea-9882-9031a2525610;Ana Vitória Costa;tcastro@example.com;+55 31 0453-3227;1998-10-24;Alameda de Albuquerque, 46, Luxemburgo, 75761-505 Moura / MS;2024-05-10
+aa7ba439-4d76-4095-affc-0f4882ae0a42;Sophie Mendes;tpimenta@example.com;+55 (061) 0265-6735;1995-07-28;Conjunto Vinicius Macedo, 38, Vila Santo Antônio, 61859767 Cirino de Goiás / PR;2024-02-18
+10366910-2005-4c4c-8037-b2f05f10534f;João Lucas Silveira;ribeirokevin@example.net;(071) 6390-9874;1973-12-11;Conjunto de Pires, 2, Santo Antônio, 67975780 Abreu / SC;2024-01-23
+e3e2e2a9-0bf9-4844-8d8c-8ac25125fb3f;Srta. Maria Fernanda Camargo;santoscaroline@example.org;+55 61 8626 7533;1993-10-27;Feira Aurora Araújo, 46, Tupi A, 95427-308 Viana / RR;2023-07-25
+9cdedd08-bc4d-4aea-9782-221b27349977;Dra. Ana Julia Carvalho;alana72@example.org;+55 (081) 5954-9622;2006-10-21;Loteamento Leonardo Siqueira, 888, Vila Formosa, 20769-983 Moura / AC;2023-02-28
+46a990c7-4085-415c-af49-d9718d940b40;Ana Lívia Oliveira;britomaria-cecilia@example.org;0500 307 4236;1990-12-16;Lagoa Pimenta, 47, Conjunto Providencia, 56055-808 Dias das Flores / PI;2025-01-15
+845cf5f0-8a22-4a14-98cf-51109d5e4880;Sr. Antônio Cassiano;nmendonca@example.com;(041) 3840-8579;1999-07-25;Rua Murilo Rezende, Cruzeiro, 83673775 Ribeiro / RN;2024-08-30
+d202a346-c7f2-4395-8b6f-1b638cbb6e91;Maria Helena Carvalho;lorena17@example.org;+55 41 1570-6890;1984-04-24;Núcleo Pacheco, 56, Vila Calafate, 57175442 Correia / RR;2024-06-30
+e3ed3d56-dbb2-48f5-a10d-76044e5649e8;Diego da Paz;rafaelrocha@example.org;51 3397 1577;1982-05-26;Núcleo Gomes, 23, Alto Das Antenas, 65505-867 Aparecida / AC;2023-09-08
+2ed47e19-9a27-4ca2-b716-a04734e49685;Zoe Azevedo;bruno97@example.org;0500 446 1286;1946-01-14;Alameda de Pastor, 9, São Sebastião, 41128970 Cassiano do Sul / AP;2023-10-24
+bdd45d61-b440-423c-b51d-625fdc9d7eb7;Sra. Emanuella Novais;srocha@example.org;0300 929 7864;2002-08-21;Praia de Vasconcelos, União, 92362889 Garcia / MA;2023-07-31
+7aba3bb8-f9a8-4bf3-87f5-848427b5591c;Laura Farias;maria-laurajesus@example.org;(011) 6715 4158;1963-05-03;Aeroporto de Novaes, 684, Santo André, 46222-731 Gomes de Rios / PI;2024-03-10
+0ccba866-2fc3-43c5-abad-09d044f8b326;Sr. João Felipe Pacheco;rodrigueslevi@example.com;+55 (071) 3365 5191;1957-07-19;Passarela de Borges, Santa Branca, 05779803 Souza da Serra / PI;2023-12-08
+5d43ddf8-386d-42c1-97fc-840dde629a12;Emilly da Luz;ljesus@example.org;+55 (041) 4504 8574;1975-04-04;Vereda de Silva, 845, Beira Linha, 18611632 Guerra Grande / TO;2024-05-05
+17601942-b9a0-4cbb-92be-fbd72976204e;Bárbara Fogaça;franciscoaraujo@example.com;+55 (011) 7576 0361;1974-06-27;Área Pastor, 51, Caiçaras, 87187414 Almeida do Galho / PR;2024-11-02
+c60031c6-756e-4e4c-bfa4-19cef735d5d3;Dra. Isis Santos;gabriela64@example.com;+55 84 6718-4214;1984-06-28;Vale Maysa Nunes, 91, Cruzeiro, 07003-314 da Costa do Oeste / AP;2024-09-23
+d98be93e-be2f-4d36-b179-9b056ef1ba92;Yan Pacheco;castromaria-luisa@example.com;0900 114 9027;1948-08-13;Vale de das Neves, 489, Vila São João Batista, 79117-619 da Costa / MT;2024-11-29
